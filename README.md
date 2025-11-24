@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Revolt Next
+
+Modern frontend application for Revolt Motors, built with [Next.js](https://nextjs.org), TypeScript, and Tailwind CSS.
 
 ## Getting Started
 
