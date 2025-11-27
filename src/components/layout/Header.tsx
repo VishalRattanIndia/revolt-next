@@ -43,7 +43,7 @@ const bikes = [
 
 const dealershipLinks = [
     { name: "Become A Dealer", href: "/become-dealer" },
-    { name: "Locate A Dealer", href: "/#revolt-hub" },
+    { name: "Locate A Dealer", href: "/showrooms" },
 ];
 
 const supportLinks = [

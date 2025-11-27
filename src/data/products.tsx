@@ -264,7 +264,7 @@ export const products = {
         colors: [
             { name: "Cosmic Black", code: "#262525", image: "/images/cosmic-black.png" },
             { name: "Rebel Red", code: "#F43737", image: "/images/rebel-red.png" },
-            { name: "Mist Grey", code: "#D1D3D4", image: "/images/mist-grey.png" },
+            { name: "Mist Grey", code: "#D1D3D4", image: "/images/product_grey.png" },
             { name: "Stealth Black", code: "#363639", image: "/images/stealth-black.png" },
             { name: "India Blue", code: "#0080FB", image: "/images/india_blue/1.png" },
         ],
